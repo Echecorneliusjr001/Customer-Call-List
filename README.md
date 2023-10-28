@@ -85,7 +85,6 @@ df["Phone_Number"] = df["Phone_Number"].str.replace('Na--','')
 df
 
 
-
 ### References
- Call centre software for custromer relationshhip management.
+ Call centre software for custromer relationship management.
  Customers feedback through email platforms.
