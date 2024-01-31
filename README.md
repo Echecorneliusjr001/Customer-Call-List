@@ -31,8 +31,8 @@ Customer preferences and feedback collected through surveys  in a company's spre
   ### Exploratory Data Analysis
   
   EDA involves exploring the population data, to answer key questions. such as;
- 1. No of customer tht were paying that need to be contacted.
- 2. No of customers that were not payinig that also needed to be contacted.
+ 1. No of customer that were paying that need to be contacted.
+ 2. No of customers that were not paying that also needed to be contacted.
 
   ### Data Analysis
   
